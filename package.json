@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/vishdrck/basic-api/issues"
   },
-  "homepage": "https://github.com/vishdrck/basic-api#readme"
+  "homepage": "https://github.com/vishdrck/basic-api#readme",
+  "dependencies": {
+    "@types/express": "^4.17.13",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12",
+    "tsc": "^2.0.3"
+  }
 }
